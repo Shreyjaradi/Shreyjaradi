@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 🔍 Exploring AI, ML, Data Engineering & Visualization  
 💡 Passionate about Open Source & Cloud Technologies  
 
-![Shrey’s Time](https://timeapi.io/api/Time/current/zone?timeZone=America/Chicago)
-
+![Shrey’s Time](https://timeapi.io/api/time/current/zone?timeZone=America/Chicago)
 
 ## 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
