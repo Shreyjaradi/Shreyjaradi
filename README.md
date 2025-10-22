@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Shrey Jaradi
+## 👋 Hi, I'm Shrey J
 
 🎓 Data Scientist | Ex-Accenture | ML/NLP | Azure | Open Source  
 📍 Based in Chicago | 💡 Passionate about solving real-world problems with data and AI
